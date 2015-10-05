@@ -1,1 +1,2 @@
-# DemoApp
+# blogs
+blogs application
